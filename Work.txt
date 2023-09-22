@@ -1,0 +1,36 @@
+Cross Platform Reputation Generation System Based on Aspect-Based Sentiment Analysis
+
+IEEE Transaction on Social Network,Volume:10,Issue Date:January.7.2022.
+
+
+Aspect-based sentiment analysis, decision-making, reputation generation, e-commerce,
+opinion mining.
+
+Cross_Platform_Reputation_Generation
+
+
+cross_platform_reputation_generation
+
+
+Twitter, Facebook, Amazon,Instagram
+
+Members
+--------
+
+
+
+pid	
+ProductId	
+Post_Review	
+Platform	
+Rating	
+Date	
+Helpful
+Prediction
+
+
+
+predict_reputation_generation
+
+
+
